@@ -115,4 +115,6 @@ MIT License — do whatever you want with it.
 
 ## 👤 Author
 Idea and planning by Kubusiak
+
+
 Built with the help of Claude (Anthropic) 🤖
